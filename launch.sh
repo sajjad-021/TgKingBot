@@ -22,7 +22,7 @@ elif [ "$1" = "install" ]; then
   sudo pip install telebot
   sudo pip install logging
   sudo apt-get install python2.7
-  git clone https://github.com/tgMember/tgKINGbot.git
+  git clone https://github.com/sajjad-021/tgKINGbot.git
   cd tgKINGbot
 
 
